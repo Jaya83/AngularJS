@@ -293,3 +293,6 @@ For more information on AngularJS please check out [angularjs.org][angularjs].
 [selenium]: http://docs.seleniumhq.org/
 [travis]: https://travis-ci.org/
 [travis-docs]: https://docs.travis-ci.com/user/getting-started
+
+Refer me :
+https://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app
